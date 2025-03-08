@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2025-03-08 06:26:07,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
+2025-03-08 18:24:01,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
 
 央视频道,#genre#
-CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
+CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源-1920x1080
 CCTV-1,http://goo.bkpcp.top/mg/cctv1$订阅源-1920x1080
 CCTV-1,http://livetv.wqwqwq.sbs/itv/1000000005000265001.m3u8?cdn=ystenlive$订阅源-1920x1080
@@ -15,8 +15,8 @@ CCTV-1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/index
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2$订阅源-1920x1080
 CCTV-2,http://goo.bkpcp.top/mg/cctv2$订阅源-1920x1080
 CCTV-2,http://livetv.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-2,https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8$订阅源-1920x1080
 CCTV-2,http://61.138.128.226:19901/tsfile/live/0002_1.m3u8$订阅源-1920x1080
+CCTV-2,http://61.138.128.226:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 CCTV-2,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?IAS$订阅源-IPv6-1920x1080
 CCTV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-2,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8$订阅源-IPv6-1920x1080
@@ -43,10 +43,10 @@ CCTV-4,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000503/index.m3u8?$�
 CCTV-4,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 CCTV-4,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000503$订阅源-IPv6-1920x1080
 CCTV-5,http://goo.bkpcp.top/mg/cctv5$订阅源-1920x1080
-CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8$订阅源-1920x1080
 CCTV-5,http://livetv.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=ystenlive$订阅源-1920x1080
 CCTV-5,http://112.46.85.60:8009/hls/503/index.m3u8$订阅源-1920x1080
 CCTV-5,http://39.170.52.236:808/hls/5/index.m3u8$订阅源-1920x1080
+CCTV-5,http://xiaoya.crccxw.top:35455/gaoma/cctv5.m3u8$订阅源-1920x1080
 CCTV-5,http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_cid=9900000005$订阅源-IPv6-1920x1080
 CCTV-5,http://[2409:8087:1a0a:df::4017]:80/wh7f454c46tw1517328845_1706942365/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8?icpid=88888888&RTS=1713968346&from=4&hms_devid=990&online=1713968346&vqe=3$订阅源-IPv6-1920x1080
 CCTV-5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/$订阅源-IPv6-1920x1080
@@ -55,8 +55,8 @@ CCTV-5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源-1920x1080
 CCTV-5+,http://livetv.wqwqwq.sbs/itv/6000000001000015875.m3u8?cdn=wasusyt$订阅源-1920x1080
 CCTV-5+,http://39.170.52.236:808/hls/18/index.m3u8$订阅源-1920x1080
-CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源-1920x1080
 CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8$订阅源-1920x1080
+CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 CCTV-5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-5+,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000132/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-5+,http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_cid=9900000507$订阅源-IPv6-1920x1080
@@ -96,7 +96,7 @@ CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9$订阅源-1920x1080
 CCTV-9,http://goo.bkpcp.top/mg/cctv9$订阅源-1920x1080
 CCTV-9,http://livetv.wqwqwq.sbs/itv/1000000001000014583.m3u8?cdn=ystenlive$订阅源-1920x1080
 CCTV-9,http://113.140.86.162:8009/hls/509/index.m3u8$订阅源-1920x1080
-CCTV-9,https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8$订阅源-1920x1080
+CCTV-9,http://39.170.52.236:808/hls/9/index.m3u8$订阅源-1920x1080
 CCTV-9,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-9,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225734/2.m3u8$订阅源-IPv6-1920x1080
 CCTV-9,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000373/index.m3u8?IAS$订阅源-IPv6-1920x1080
@@ -106,7 +106,7 @@ CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10$订阅源-1920x1080
 CCTV-10,http://goo.bkpcp.top/mg/cctv10$订阅源-1920x1080
 CCTV-10,http://livetv.wqwqwq.sbs/itv/1000000001000023734.m3u8?cdn=ystenlive$订阅源-1920x1080
 CCTV-10,http://113.140.86.162:8009/hls/506/index.m3u8$订阅源-1920x1080
-CCTV-10,https://api.olelive.com/dis/live/CCTV10HD/hls.m3u8$订阅源-1920x1080
+CCTV-10,http://xiaoya.crccxw.top:35455/gaoma/cctv10.m3u8$订阅源-1920x1080
 CCTV-10,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000506$订阅源-IPv6-1920x1080
 CCTV-10,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-10,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000026367/1.m3u8$订阅源-IPv6-1920x1080
@@ -116,7 +116,7 @@ CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11$订阅源-1920x1080
 CCTV-11,http://goo.bkpcp.top/mg/cctv11$订阅源-1920x1080
 CCTV-11,http://livetv.wqwqwq.sbs/itv/1000000005000265011.m3u8?cdn=ystenlive$订阅源-1920x1080
 CCTV-11,http://36.32.174.67:60080/newlive/live/hls/14/live.m3u8$订阅源-1920x1080
-CCTV-11,https://api.olelive.com/dis/live/CCTV11HD/hls.m3u8$订阅源-1920x1080
+CCTV-11,http://61.138.128.226:19901/tsfile/live/0011_2.m3u8$订阅源-1920x1080
 CCTV-11,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000497/index.m3u8?IAS$订阅源-IPv6-1920x1080
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225597/index.m3u8$订阅源-IPv6-1920x1080
@@ -125,8 +125,8 @@ CCTV-11,http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8$订�
 CCTV-12,http://goo.bkpcp.top/mg/cctv12$订阅源-1920x1080
 CCTV-12,http://livetv.wqwqwq.sbs/itv/1000000001000032494.m3u8?cdn=ystenlive$订阅源-1920x1080
 CCTV-12,http://112.46.85.60:8009/hls/507/index.m3u8$订阅源-1920x1080
-CCTV-12,https://api.olelive.com/dis/live/CCTV12HD/hls.m3u8$订阅源-1920x1080
 CCTV-12,http://61.138.128.226:19901/tsfile/live/0013_1.m3u8$订阅源-1920x1080
+CCTV-12,http://61.138.128.226:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 CCTV-12,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010205/$订阅源-IPv6-1920x1080
 CCTV-12,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QMAmpLefguRLiOPXiDRWhxHg8yim2giTBA8RILsb%2B8Y5pkFUyZBE%2FkNJAbwncEegkU$订阅源-IPv6-1920x1080
 CCTV-12,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000377/index.m3u8$订阅源-IPv6-1920x1080
@@ -134,9 +134,9 @@ CCTV-12,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000509/index.m3u8?$�
 CCTV-12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源-1920x1080
 CCTV-13,http://goo.bkpcp.top/mg/cctv13$订阅源-1920x1080
-CCTV-13,https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8$订阅源-1920x1080
 CCTV-13,http://61.138.128.226:19901/tsfile/live/0013_2.m3u8$订阅源-1920x1080
 CCTV-13,http://61.138.128.226:19901/tsfile/live/0013_2.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
+CCTV-13,https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8$订阅源-1920x1080
 CCTV-13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-13,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS$订阅源-IPv6-1920x1080
 CCTV-13,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8$订阅源-IPv6-1920x1080
@@ -145,8 +145,8 @@ CCTV-13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?ch
 CCTV-14,http://goo.bkpcp.top/mg/cctv14$订阅源-1920x1080
 CCTV-14,http://livetv.wqwqwq.sbs/itv/1000000001000008170.m3u8?cdn=ystenlive$订阅源-1920x1080
 CCTV-14,http://livetv.wqwqwq.sbs/itv/1000000005000265013.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-14,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8$订阅源-1920x1080
 CCTV-14,http://61.138.128.226:19901/tsfile/live/0015_1.m3u8$订阅源-1920x1080
+CCTV-14,http://61.138.128.226:19901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 CCTV-14,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/$订阅源-IPv6-1920x1080
 CCTV-14,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000008170/$订阅源-IPv6-1920x1080
 CCTV-14,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002148/index.m3u8$订阅源-IPv6-1920x1080
@@ -155,8 +155,8 @@ CCTV-14,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源-1920x1080
 CCTV-15,http://goo.bkpcp.top/mg/cctv15$订阅源-1920x1080
 CCTV-15,http://livetv.wqwqwq.sbs/itv/1000000005000265014.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-15,https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8$订阅源-1920x1080
 CCTV-15,http://61.138.128.226:19901/tsfile/live/0019_1.m3u8$订阅源-1920x1080
+CCTV-15,http://227w9f5104.zicp.fun:35455/gaoma/cctv15.m3u8$订阅源-1920x1080
 CCTV-15,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8?$订阅源-IPv6-1920x1080
 CCTV-15,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?IAS$订阅源-IPv6-1920x1080
 CCTV-15,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8$订阅源-IPv6-1920x1080
@@ -172,11 +172,11 @@ CCTV-16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/32
 CCTV-16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8?$订阅源-IPv6-1920x1080
 CCTV-16,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 CCTV-16,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2135331742_-653554677/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$订阅源-IPv6-1920x1080
-CCTV-17,https://tv.bfsu.edu.cn/hls/cctv17hd.m3u8$订阅源-1920x1080
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源-1920x1080
-CCTV-17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
+CCTV-17,https://tv.bfsu.edu.cn/hls/cctv17hd.m3u8$订阅源-1920x1080
 CCTV-17,http://goo.bkpcp.top/mg/cctv17$订阅源-1920x1080
 CCTV-17,http://livetv.wqwqwq.sbs/itv/1000000006000268004.m3u8?cdn=ystenlive$订阅源-1920x1080
+CCTV-17,http://livetv.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive$订阅源-1920x1080
 CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225765/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-17,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3$订阅源-IPv6-1920x1080
@@ -192,16 +192,16 @@ CETV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8$订阅
 CETV1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$订阅源-IPv6-1920x1080
 CETV1,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000046/index.m3u8?$订阅源-IPv6-1920x1080
 CETV1,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000046/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000046$订阅源-IPv6-1920x1080
-CETV2,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive$订阅源-1920x1080
 CETV2,https://iptv.sufa518.cn:8090/itv/5000000011000031207.m3u8?cdn=bestzb$订阅源-1920x1080
+CETV2,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive$订阅源-1920x1080
 CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2$订阅源-19x24
 CETV2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8$订阅源
 CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$订阅源-IPv6-1920x1080
 CETV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8$订阅源-IPv6-1920x1080
 CETV2,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8?$订阅源-IPv6-1920x1080
 CETV2,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000071$订阅源-IPv6-1920x1080
-CETV4,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive$订阅源-1920x1080
 CETV4,https://iptv.sufa518.cn:8090/itv/5000000011000031207.m3u8?cdn=bestzb$订阅源-1920x1080
+CETV4,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive$订阅源-1920x1080
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001$订阅源-1280x720
 CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4$订阅源-19x24
 CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8$订阅源
@@ -226,15 +226,15 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 安徽卫视,http://livetv.wqwqwq.sbs/itv/1000000001000030159.m3u8?cdn=ystenlive$订阅源-1920x1080
 安徽卫视,http://61.138.128.226:19901/tsfile/live/0130_1.m3u8$订阅源-1920x1080
 安徽卫视,http://61.138.128.226:19901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
-安徽卫视,http://120.192.226.35:8009/hls/42/index.m3u8$订阅源-720x576
+安徽卫视,https://www.yangshipin.cn/tv/home?pid=600002532$订阅源
 安徽卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000514$订阅源-IPv6-1920x1080
 安徽卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000368/index.m3u8?IAS$订阅源-IPv6-1920x1080
 安徽卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv$订阅源-IPv6-1920x1080
 安徽卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000328/index.m3u8?IASHttpSessionId=$订阅源-IPv6-1920x1080
 安徽卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000368/index.m3u8?$订阅源-IPv6-1920x1080
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339$订阅源-1920x1080
-浙江卫视,http://php.jdshipin.com:8880/cqyx.php?id=ZHEJIANGHD$订阅源-1920x1080
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915$订阅源-1920x1080
+浙江卫视,http://php.jdshipin.com:8880/cqyx.php?id=ZHEJIANGHD$订阅源-1920x1080
+浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339$订阅源-1920x1080
 浙江卫视,http://livetv.wqwqwq.sbs/itv/1000000001000014260.m3u8?cdn=ystenlive$订阅源-1920x1080
 浙江卫视,http://112.46.85.60:8009/hls/34/index.m3u8$订阅源-1920x1080
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1549378093_1832251100/ott.mobaibox.com/PLTV/3/224/3221227215/index.m3u8?icpid=3&RTS=1674385959&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3$订阅源-IPv6-1920x1080
@@ -312,11 +312,11 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 甘肃卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8$订阅源-IPv6-1920x1080
 甘肃卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8$订阅源-IPv6-1920x1080
 甘肃卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000023/index.m3u8?$订阅源-IPv6-1920x1080
-广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549$订阅源-1920x1080
 广西卫视,http://php.jdshipin.com:8880/cqyx.php?id=GUANGXIHD$订阅源-1920x1080
+广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549$订阅源-1920x1080
 广西卫视,http://livetv.wqwqwq.sbs/itv/5000000011000031118.m3u8?cdn=bestzb$订阅源-1920x1080
+广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8$订阅源-1920x1080
 广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8$订阅源-1920x1080
-广西卫视,http://61.138.128.226:19901/tsfile/live/0113_1.m3u8$订阅源-1920x1080
 广西卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000034/index.m3u8$订阅源-IPv6-1920x1080
 广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8$订阅源-IPv6-1920x1080
 广西卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000456$订阅源-IPv6-1920x1080
@@ -332,8 +332,8 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 贵州卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv$订阅源-IPv6-1920x1080
 贵州卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源-IPv6-1920x1080
 贵州卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000003169/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000003169$订阅源-IPv6-1920x1080
-河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406$订阅源-1920x1080
 河北卫视,http://php.jdshipin.com:8880/cqyx.php?id=HEBEISD$订阅源-1920x1080
+河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406$订阅源-1920x1080
 河北卫视,http://livetv.wqwqwq.sbs/itv/5000000006000040016.m3u8?cdn=bestzb$订阅源-1920x1080
 河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8$订阅源-1920x1080
 河北卫视,http://61.138.128.226:19901/tsfile/live/0117_1.m3u8$订阅源-1920x1080
@@ -342,8 +342,8 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 河北卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?fmmv6$订阅源-IPv6-1920x1080
 河北卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226406/index.m3u8$订阅源-IPv6-1920x1080
 河北卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6-1920x1080
-河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$订阅源-1920x1080
 河南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HENANHD$订阅源-1920x1080
+河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$订阅源-1920x1080
 河南卫视,http://livetv.wqwqwq.sbs/itv/5000000011000031119.m3u8?cdn=bestzb$订阅源-1920x1080
 河南卫视,http://61.138.128.226:19901/tsfile/live/0139_1.m3u8$订阅源-1920x1080
 河南卫视,http://61.138.128.226:19901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
@@ -395,8 +395,8 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546$订阅源-1920x1080
 辽宁卫视,http://61.138.128.226:19901/tsfile/live/0121_1.m3u8$订阅源-1920x1080
 辽宁卫视,http://61.138.128.226:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
-辽宁卫视,http://120.192.226.35:8009/hls/54/index.m3u8$订阅源-720x576
 辽宁卫视,http://58.210.168.86:10800/newlive/live/hls/22/live.m3u8$订阅源-720x576
+辽宁卫视,http://1.180.2.93:9901/tsfile/live/0121_1.m3u8$订阅源-704x576
 辽宁卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226546/index.m3u8$订阅源-IPv6-1920x1080
 辽宁卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000526/index.m3u8?$订阅源-IPv6-1920x1080
 辽宁卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源-IPv6-1920x1080
@@ -412,8 +412,8 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 吉林卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 吉林卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?IAS$订阅源-IPv6-1920x1080
 吉林卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226397/2.m3u8$订阅源-IPv6-1920x1080
-黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585$订阅源-1920x1080
 黑龙江卫视,http://php.jdshipin.com:8880/cqyx.php?id=HEILONGJIANGHD$订阅源-1920x1080
+黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585$订阅源-1920x1080
 黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8$订阅源-1920x1080
 黑龙江卫视,http://livetv.wqwqwq.sbs/itv/1000000001000001925.m3u8?cdn=ystenlive$订阅源-1920x1080
 黑龙江卫视,http://61.138.128.226:19901/tsfile/live/0143_1.m3u8$订阅源-1920x1080
@@ -422,18 +422,18 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 黑龙江卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000521/index.m3u8$订阅源-IPv6-1920x1080
 黑龙江卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000175/index.m3u8??$订阅源-IPv6-1920x1080
 黑龙江卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000175/index.m3u8?$订阅源-IPv6-1920x1080
-内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634$订阅源-1920x1080
 内蒙古卫视,http://php.jdshipin.com:8880/cqyx.php?id=NEIMENGKUSD$订阅源-1920x1080
+内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634$订阅源-1920x1080
 内蒙古卫视,http://110.53.52.63:8888/newlive/live/hls/45/live.m3u8$订阅源-1920x1080
 内蒙古卫视,http://61.138.128.226:19901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
-内蒙古卫视,http://120.192.226.35:8009/hls/60/index.m3u8$订阅源-720x576
+内蒙古卫视,http://1.180.2.93:9901/tsfile/live/1068_1.m3u8$订阅源-704x576
 内蒙古卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源-IPv6-1920x1080
 内蒙古卫视,http://[2409:8087:1a0a:df::4035]:80/wh7f454c46tw2996322019_-1749293790/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8?icpid=88888888&RTS=1713969825&from=4&hms_devid=1209&online=1713969825&vqe=3$订阅源-IPv6-1920x1080
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8$订阅源-IPv6-1920x1080
 内蒙古卫视,http://[2409:8087:1a0a:df::4035]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8$订阅源-IPv6-1920x1080
 内蒙古卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000044/index.m3u8$订阅源-IPv6-1920x1080
-宁夏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225632$订阅源-1920x1080
 宁夏卫视,http://php.jdshipin.com:8880/cqyx.php?id=NINGXIA$订阅源-1920x1080
+宁夏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225632$订阅源-1920x1080
 宁夏卫视,http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8$订阅源-1920x1080
 宁夏卫视,http://110.53.52.63:8888/newlive/live/hls/39/live.m3u8$订阅源-1920x1080
 宁夏卫视,http://61.138.128.226:19901/tsfile/live/0112_1.m3u8$订阅源-1920x1080
@@ -455,8 +455,8 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456$订阅源-1920x1080
 山东卫视,http://livetv.wqwqwq.sbs/itv/1000000001000016568.m3u8?cdn=ystenlive$订阅源-1920x1080
 山东卫视,http://36.32.174.67:60080/newlive/live/hls/42/live.m3u8$订阅源-1920x1080
+山东卫视,http://live.dxhmt.cn:9081/tv/11521-1.m3u8$订阅源-1920x1080
 山东卫视,http://61.138.128.226:19901/tsfile/live/0131_1.m3u8$订阅源-1920x1080
-山东卫视,http://61.138.128.226:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 山东卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000527/index.m3u8?$订阅源-IPv6-1920x1080
 山东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$订阅源-IPv6-1920x1080
 山东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225738/2/index.m3u8$订阅源-IPv6-1920x1080
@@ -482,9 +482,9 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 陕西卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000026/index.m3u8?channel-id=newtv$订阅源-IPv6-1920x1080
 陕西卫视,http://[2409:8087:1a0a:df::404a]:80/wh7f454c46tw3334119019_-848365723/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8?icpid=88888888&RTS=1713970163&from=4&hms_devid=1212&online=1713970163&vqe=3$订阅源-IPv6-1920x1080
 陕西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$订阅源-IPv6-1920x1080
-广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248$订阅源-1920x1080
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws$订阅源-1920x1080
 广东卫视,http://php.jdshipin.com:8880/cqyx.php?id=GUANGDONGHD$订阅源-1920x1080
+广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248$订阅源-1920x1080
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws$订阅源-1920x1080
 广东卫视,http://livetv.wqwqwq.sbs/itv/1000000001000014176.m3u8?cdn=ystenlive$订阅源-1920x1080
 广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226248/index.m3u8$订阅源-IPv6-1920x1080
@@ -492,18 +492,18 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw200922983_-1894712676/ott.mobaibox.com/PLTV/3/224/3221227591/index.m3u8?icpid=3&RTS=1674380316&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3$订阅源-IPv6-1920x1080
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw201843385_424516234/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1674380317&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3$订阅源-IPv6-1920x1080
 广东卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010055/1.m3u8?$订阅源-IPv6-1920x1080
-深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313$订阅源-1920x1080
 深圳卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHENZHENHD$订阅源-1920x1080
-深圳卫视,http://58.243.224.244:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
+深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313$订阅源-1920x1080
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源-1920x1080
 深圳卫视,http://livetv.wqwqwq.sbs/itv/5000000004000007410.m3u8?cdn=bestzb$订阅源-1920x1080
-深圳卫视,http://58.243.224.242:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
+深圳卫视,http://58.243.224.244:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 深圳卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000529/index.m3u8$订阅源-IPv6-1920x1080
 深圳卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/index.m3u8$订阅源-IPv6-1920x1080
 深圳卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265028/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 深圳卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv$订阅源-IPv6-1920x1080
 深圳卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000318$订阅源-IPv6-1920x1080
-海南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226465$订阅源-1920x1080
 海南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HAINANSD$订阅源-1920x1080
+海南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226465$订阅源-1920x1080
 海南卫视,https://tv.bfsu.edu.cn/hls/lyhd.m3u8$订阅源-1920x1080
 海南卫视,http://goo.bkpcp.top/mg/hinws$订阅源-1920x1080
 海南卫视,http://livetv.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb$订阅源-1920x1080
@@ -522,28 +522,28 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6$订阅源-IPv6-1920x1080
 三沙卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId=$订阅源-IPv6-1920x1080
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS$订阅源-IPv6-1920x1080
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws$订阅源-1920x1080
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638$订阅源-1920x1080
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源-1920x1080
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226433$订阅源-1920x1080
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws$订阅源-1920x1080
 西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8$订阅源-1920x1080
 西藏卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226847/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6-1920x1080
 西藏卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000043$订阅源-IPv6-1920x1080
 西藏卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000043/index.m3u8$订阅源-IPv6-1920x1080
 西藏卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源-IPv6-1920x1080
 西藏卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000043/index.m3u8?$订阅源-IPv6-1920x1080
-新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源-1920x1080
 新疆卫视,http://php.jdshipin.com:8880/cqyx.php?id=XINJIANGSD$订阅源-1920x1080
-新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8$订阅源-1920x1080
+新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源-1920x1080
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd$订阅源-1920x1080
+新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8$订阅源-1920x1080
 新疆卫视,http://61.138.128.226:19901/tsfile/live/0110_1.m3u8$订阅源-1920x1080
 新疆卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8$订阅源-IPv6-1920x1080
 新疆卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 新疆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225725/2/index.m3u8$订阅源-IPv6-1920x1080
 新疆卫视,http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw3443810904_-1116868076/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8?icpid=88888888&RTS=1713970272&from=4&hms_devid=1208&online=1713970272&vqe=3$订阅源-IPv6-1920x1080
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3$订阅源-IPv6-1920x1080
-云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源-1920x1080
 云南卫视,http://php.jdshipin.com:8880/cqyx.php?id=YUNNANSD$订阅源-1920x1080
+云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源-1920x1080
 云南卫视,http://livetv.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb$订阅源-1920x1080
 云南卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8$订阅源-1920x1080
 云南卫视,http://61.138.128.226:19901/tsfile/live/0119_1.m3u8$订阅源-1920x1080
@@ -553,51 +553,51 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 云南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000035/index.m3u8$订阅源-IPv6-1920x1080
 云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/ott.mobaibox.com/PLTV/4/224/3221225591/index.m3u8$订阅源-IPv6-1920x1080
 翡翠台,https://cdn5.1678520.xyz/live/live2.1.php?id=j1$订阅源-1920x1080
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2$订阅源-1920x1080
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2$订阅源-1920x1080
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$订阅源-1920x1080
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct$订阅源-1920x1080
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4$订阅源-1920x1080
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3$订阅源-1920x1080
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$订阅源-1920x1080
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$订阅源-1920x1080
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3$订阅源-1920x1080
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn$订阅源-1920x1080
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2$订阅源-1920x1080
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2$订阅源-1920x1080
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2$订阅源-1920x1080
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$订阅源-1920x1080
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt$订阅源-1920x1080
 明珠台,http://8.138.7.223/tv/gdmzyd.php?id=3$订阅源-1920x1080
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源-1920x1080
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$订阅源-1920x1080
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源-1920x1080
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源-1920x1080
-凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8$订阅源-1920x1080
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8$订阅源-1920x1080
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$订阅源-IPv6-1920x1080
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3$订阅源-IPv6-1920x1080
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3$订阅源-IPv6-1920x1080
 凤凰中文,http://8.138.7.223/tv/gdmzyd.php?id=4$订阅源-1920x1080
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源-1280x720
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源-1920x1080
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源-1920x1080
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源-1920x1080
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源-1920x1080
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源-1920x1080
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源-1920x1080
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源-1280x720
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3$订阅源-IPv6-1920x1080
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$订阅源-IPv6-1920x1080
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3$订阅源-IPv6-1920x1080
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$订阅源-IPv6-1920x1080
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8$订阅源-1280x720
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$订阅源-1920x1080
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源-1920x1080
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$订阅源-1920x1080
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2$订阅源-1920x1080
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$订阅源-1920x1080
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8$订阅源-IPv6-1920x1080
 凤凰香港,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰香港$订阅源-1280x582
 凤凰香港,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0$订阅源-720x576
 凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0$订阅源-720x576
-凤凰香港,http://r.jdshipin.com/NfC0f$订阅源
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源-1920x1080
+凤凰香港,http://iptv.diyp.tech/iptv.php?key=gat1&id=21$订阅源
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源-1920x1080
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源-1920x1080
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源-1920x1080
 凤凰卫视,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源-1280x720
 凤凰卫视,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一1$订阅源-1280x582
 凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA$订阅源-720x576
@@ -605,16 +605,17 @@ CETV4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?chan
 凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354$订阅源-720x576
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$订阅源
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源-1920x1080
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$订阅源-1920x1080
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源-1920x1080
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源-1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源-1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源-1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源-1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源-1920x1080
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源-1920x1080
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$订阅源-1920x1080
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源-1920x1080
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源-1920x1080
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源-1920x1080
 香港卫视,http://stream.qhbtv.com/adws/sd/live.m3u8$订阅源-1280x720
+香港卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8$订阅源-1280x720
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$订阅源-720x576
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$订阅源-720x576
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639$订阅源-720x576
@@ -623,21 +624,20 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$订阅源-720x576
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7158332927312639$订阅源-720x576
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv$订阅源-720x576
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源-720x576
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源-1920x1080
 纬来体育,http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8$订阅源-1920x1080
 纬来体育,http://api3.52tb.xyz/info?id=376&token=20221127jxwhhemby$订阅源-1920x1080
 纬来体育,http://36.105.100.208:35455/itv/5000000010000017540.m3u8?cdn=bestzb$订阅源-1920x1080
-纬来体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6$订阅源-1920x1080
 纬来体育,https://iptv.sufa518.cn:8090/itv/5000000010000017540.m3u8?cdn=bestzb$订阅源-1920x1080
+纬来体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6$订阅源-1920x1080
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源-1280x720
-纬来体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$订阅源
+纬来体育,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8$订阅源-1280x720
 J2,http://r.jdshipin.com/Nr5jq$订阅源
 J2,http://r.jdshipin.com/ndGgS$订阅源
-Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$订阅源-1920x1080
 Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv$订阅源-1920x1080
+Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$订阅源-1920x1080
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源-1920x1080
 Viutv,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tvfree.sbs$订阅源-1280x720
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
@@ -649,44 +649,46 @@ Viutv,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tv
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源-1920x1080
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源-1920x1080
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源-1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源-1920x1080
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源-1920x1080
 东森超视,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源-1920x1080
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie$订阅源
+东森电影,http://iptv.diyp.tech/iptv.php?key=gat1&id=202$订阅源
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV$订阅源-720x576
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv$订阅源-720x576
 
 电影频道,#genre#
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy$订阅源-1920x1080
-CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy$订阅源-1920x1080
-CHC家庭影院,https://tv.bfsu.edu.cn/hls/chctv.m3u8$订阅源-1920x1080
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy$订阅源-1920x1080
+CHC家庭影院,https://tv.bfsu.edu.cn/hls/chctv.m3u8$订阅源-1920x1080
+CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy$订阅源-1920x1080
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy$订阅源-1920x1080
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$订阅源-IPv6-1920x1080
 CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$订阅源-IPv6-1920x1080
 CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$订阅源-IPv6-1920x1080
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$订阅源-IPv6-1920x1080
 CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$订阅源-IPv6-1920x1080
-CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy$订阅源-1920x1080
 CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy$订阅源-1920x1080
-CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8$订阅源-1920x1080
+CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy$订阅源-1920x1080
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy$订阅源-1920x1080
+CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8$订阅源-1920x1080
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy$订阅源-1920x1080
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8$订阅源-IPv6-1920x1080
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8$订阅源-IPv6-1920x1080
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2$订阅源-IPv6-1920x1080
 CHC动作电影,http://[2409:8087:74d9:21::6]:80/270000001128/9900000106/index.m3u8$订阅源-IPv6-1920x1080
 CHC动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源-IPv6-1920x1080
-CHC高清电影,http://api2.52tb.xyz/info?id=221&token=20230218qkyjia$订阅源-1920x1080
 CHC高清电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby$订阅源-1920x1080
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源-1920x1080
+CHC高清电影,http://api2.52tb.xyz/info?id=221&token=20230218qkyjia$订阅源-1920x1080
 CHC高清电影,http://3501776.xyz:35455/itv/1000000004000024282.m3u8?cdn=ystenlive$订阅源-1920x1080
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv$订阅源
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 NewTV惊悚悬疑,http://3501776.xyz:35455/itv/1000000004000024282.m3u8?cdn=ystenlive$订阅源-1920x1080
 NewTV惊悚悬疑,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8$订阅源-IPv6-1920x1080
 NewTV惊悚悬疑,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000024282/index.m3u8?channel-id=bestzb&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源-IPv6-1920x1080
@@ -706,22 +708,24 @@ NewTV动作电影,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000
 NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8$订阅源-IPv6-1920x1080
 NewTV动作电影,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
 NewTV动作电影,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
-黑莓电影,http://itv.uat.news:80/TVOD/1000000004000019624/ystenlive/index.m3u8$订阅源-1920x1080
 黑莓电影,http://36.105.100.208:35455/itv/1000000004000019624.m3u8?cdn=ystenlive$订阅源-1920x1080
+黑莓电影,http://home.wwang.pw:35455/itv/1000000004000019624.m3u8?cdn=ystenlive$订阅源
 黑莓电影,http://www.zhch682022.cn:35455/itv/1000000004000019624.m3u8?cdn=ystenlive$订阅源
-黑莓电影,http://140.245.86.67:50001/1000000004000019624/ystenlive/index.m3u8$订阅源
 黑莓电影,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 黑莓电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$订阅源-IPv6-1920x1080
 黑莓电影,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8785669936177902664/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8$订阅源-IPv6-1920x1080
 黑莓电影,http://[2409:8087:74d1:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$订阅源-IPv6-1920x1080
+黑莓电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225743/2.m3u8$订阅源-IPv6-1920x1080
+纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$订阅源-1920x1080
 经典电影,http://goo.bkpcp.top/mg/jdxgdy$订阅源-1920x1080
 经典电影,https://vod1.ttbfp2.com/20220316/nStdon8E/index.m3u8$订阅源-1280x768
-经典电影,http://luobo.bkpcp.top/yy/1356363815$订阅源-720x480
-经典电影,http://61.133.118.228:5001/yy/1356363815$订阅源-720x480
+经典电影,http://luobo.bkpcp.top/yy/1356363815$订阅源-788x576
+经典电影,http://61.133.118.228:5001/yy/1356363815$订阅源-788x576
 经典电影,http://61.163.181.78:9901/tsfile/live/1059_1.m3u8$订阅源
 经典电影,http://tv.zzlag.top:9087/tsfile/live/1057_1.m3u8?key=txiptv$订阅源
+IPTV经典电影,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht$订阅源-1920x1080
 IPTV经典电影,http://43.138.0.72:35455/yy/1382754187$订阅源-1280x720
 无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8$订阅源-1280x720
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
@@ -729,8 +733,9 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187$订阅源-1280x720
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv$订阅源-720x576
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie$订阅源
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源-1920x1080
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源-1920x1080
+东森电影,http://iptv.diyp.tech/iptv.php?key=gat1&id=202$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源-1920x1080
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源-1920x1080
 东森超视,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源-1920x1080
